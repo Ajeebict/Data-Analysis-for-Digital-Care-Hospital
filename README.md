@@ -41,3 +41,13 @@ Include KPI cards for:
 •	Gender 
 •	Outcome
 Outline all business insights derived from your analysis and offer recommendations.
+# Tools Used
+## Microsoft Excel
+• Formulars such as COUNTIF, COUNTIFS, SUMIF/SUMIFS, AVERAGE etc.
+• Table and Functions
+•Pivot Table and Charts
+• Dash Board
+
+
+
+## Key Insights and Recommendation
